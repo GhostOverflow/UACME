@@ -21,5 +21,8 @@ jobs:
       with:
         name: UACME
         path: |
-          Source/Akagi/output/x64/Release/Akagi.exe
+          Source/Akagi/output/x64/Release/Akagi64.exe
+          Source/Fubuki/output/x64/Release/Fubuki.dll
+          Source/Naka/output/x64/Release/Naka.exe
           Source/Yuubari/output/x64/Release/Yuubari.exe
+          Source/Akatsuki/output/x64/Release/Akatsuki.dll
